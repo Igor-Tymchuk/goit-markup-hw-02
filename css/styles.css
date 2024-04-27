@@ -1,0 +1,7 @@
+body {
+    font-family: Roboto,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#2e2f42;
+}
+button:hover, button:focus {
+    cursor: pointer;
+}
