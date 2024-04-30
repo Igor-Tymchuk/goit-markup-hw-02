@@ -55,7 +55,8 @@ header {
   color: #434455;
 }
 
-.address-type:hover {
+.address-type:hover,
+.address-type:focus {
   color: #404bbf;
 }
 .why-us {
@@ -78,6 +79,7 @@ header {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .name-teammate {
   font-weight: 500;
@@ -88,9 +90,11 @@ header {
 .title-section {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .description {
