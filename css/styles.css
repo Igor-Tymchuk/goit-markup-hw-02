@@ -74,7 +74,14 @@ header {
   font-size: 0px;
 }
 
-.title-h3 {
+.titles-why-us {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.title-elements-portfolio {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -139,8 +146,6 @@ header {
   background: #fff;
 }
 .our-portfolio {
-}
-.row1 {
 }
 .portfolio-list {
 }
